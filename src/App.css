@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  background-color: paleturquoise;
+  padding: 75px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 45px;
+}
+input[type=text]{
+  width: 25vw;
+  height: 22px;
+  border-radius: 10px;
 }
 
 .App-logo {
@@ -35,4 +45,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+div {
+  margin-top: 40px;
 }
